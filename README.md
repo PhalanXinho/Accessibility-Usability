@@ -7,3 +7,5 @@ This repository contains the documents to fullfil the task Accessibility and Usa
   <li>There is two documents in Excel which contains the Kiviat table in one of then and the System Usability Scale Test in another</li>
   <li>And finally, a document txt that has a hyper reference to the presentation that was done in Canva</li>
 </ol>
+
+You can also check the presentation clicking on this <a href="canva.com/design/DAFSCZpuwo8/0Dnv3i7psGTGtGoB3bYEuQ/view?utm_content=DAFSCZpuwo8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> link </a>
